@@ -1,0 +1,6 @@
+22:55:02.990 [TestNG-tests-1] INFO  comexe.Simplelog - url is launched successfully
+22:55:03.000 [TestNG-tests-1] ERROR comexe.Simplelog - $$$$$$$$$$$
+22:56:08.820 [TestNG-tests-1] INFO  comexe.Simplelog - Welcome to Selenmium
+22:56:15.877 [TestNG-tests-1] DEBUG comexe.Simplelog - welcome to rest
+22:56:15.877 [TestNG-tests-1] INFO  comexe.Simplelog - url is launched successfully
+22:56:15.877 [TestNG-tests-1] ERROR comexe.Simplelog - $$$$$$$$$$$

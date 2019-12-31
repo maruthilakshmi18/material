@@ -1,0 +1,7 @@
+22:51:52.381 [TestNG-tests-1] ERROR comexe.Simplelog - $$$$$$$$$$$
+22:54:01.230 [TestNG-tests-1] INFO  comexe.Simplelog - Welcome to Selenmium
+22:54:08.553 [TestNG-tests-1] DEBUG comexe.Simplelog - https://www.google.com/
+22:54:08.553 [TestNG-tests-1] INFO  comexe.Simplelog - url is launched successfully
+22:54:08.553 [TestNG-tests-1] ERROR comexe.Simplelog - $$$$$$$$$$$
+22:54:55.612 [TestNG-tests-1] INFO  comexe.Simplelog - Welcome to Selenmium
+22:55:02.990 [TestNG-tests-1] DEBUG comexe.Simplelog - https://www.google.com/
